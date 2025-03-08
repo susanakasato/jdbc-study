@@ -1,7 +1,7 @@
 package model.dao;
 
 import db.DB;
-import db.implementation.DepartmentDaoJdbc;
+import model.dao.implementation.DepartmentDaoJdbc;
 
 public class DaoFactory {
 	
