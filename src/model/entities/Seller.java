@@ -1,8 +1,8 @@
 package model.entities;
 
 import java.io.Serializable;
-import java.sql.Date;
 import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.Objects;
 
 public class Seller implements Serializable {
